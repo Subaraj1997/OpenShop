@@ -1,0 +1,37 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31129.286
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Openshop", "Openshop\Openshop.csproj", "{7F5662A6-7F24-4387-8D1F-EBE96B76F947}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Core", "Core\Core.csproj", "{2D9DD293-C633-43CD-B9DE-DB932D9D2AC2}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Infrastucture", "Infrastucture\Infrastucture.csproj", "{BF0F9A1F-25A5-4813-B457-6BBA530C4B56}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{7F5662A6-7F24-4387-8D1F-EBE96B76F947}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7F5662A6-7F24-4387-8D1F-EBE96B76F947}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7F5662A6-7F24-4387-8D1F-EBE96B76F947}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7F5662A6-7F24-4387-8D1F-EBE96B76F947}.Release|Any CPU.Build.0 = Release|Any CPU
+		{2D9DD293-C633-43CD-B9DE-DB932D9D2AC2}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2D9DD293-C633-43CD-B9DE-DB932D9D2AC2}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2D9DD293-C633-43CD-B9DE-DB932D9D2AC2}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2D9DD293-C633-43CD-B9DE-DB932D9D2AC2}.Release|Any CPU.Build.0 = Release|Any CPU
+		{BF0F9A1F-25A5-4813-B457-6BBA530C4B56}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BF0F9A1F-25A5-4813-B457-6BBA530C4B56}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BF0F9A1F-25A5-4813-B457-6BBA530C4B56}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BF0F9A1F-25A5-4813-B457-6BBA530C4B56}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {4637A236-B78D-4DB6-BF80-FA081803EF16}
+	EndGlobalSection
+EndGlobal
